@@ -3,7 +3,7 @@ module github.com/rhl/businessos-backend
 go 1.24.1
 
 require (
-github.com/SherClockHolmes/webpush-go v1.4.0
+	github.com/SherClockHolmes/webpush-go v1.4.0
 	github.com/alicebob/miniredis/v2 v2.35.0
 	github.com/cenkalti/backoff/v5 v5.0.3
 	github.com/creack/pty v1.1.24
@@ -23,7 +23,6 @@ github.com/SherClockHolmes/webpush-go v1.4.0
 	github.com/redis/go-redis/v9 v9.17.2
 	github.com/resend/resend-go/v2 v2.28.0
 	github.com/robfig/cron/v3 v3.0.1
-	github.com/severity1/claude-agent-sdk-go v0.6.12
 	github.com/spf13/viper v1.21.0
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/crypto v0.46.0
