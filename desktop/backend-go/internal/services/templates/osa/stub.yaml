@@ -1,0 +1,4 @@
+# OSA stub template
+name: stub
+description: Stub template for OSA-disabled builds
+version: "1.0"
